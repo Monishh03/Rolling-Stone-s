@@ -1,5 +1,5 @@
 ---
-title: "Does Spotify Popularity Track an Album's 2020 Rank?"
+title: "Does Weeks on Billoard affect the Spotify Polularity"
 author: "Monish Reddy Maramreddy"
 format: 
   html:
@@ -7,6 +7,8 @@ format:
 ---
 
 ## Business Understanding
+
+
 
 ## Data Understanding
 
