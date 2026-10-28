@@ -1,0 +1,19 @@
+---
+title: "Does Spotify Popularity Track an Album's 2020 Rank?"
+author: "Monish Reddy Maramreddy"
+format: 
+  html:
+   embed-resources: true
+---
+
+## Business Understanding
+
+## Data Understanding
+
+## Data Preparation
+
+## Modelling
+
+## Evaluation
+
+## Deployment
